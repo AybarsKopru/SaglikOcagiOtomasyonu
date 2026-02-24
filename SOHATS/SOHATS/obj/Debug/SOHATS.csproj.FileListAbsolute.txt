@@ -1,0 +1,17 @@
+C:\Users\aybar\Desktop\saglik_ocagi_otomasyonu\SOHATS\SOHATS\obj\Debug\SOHATS.csproj.AssemblyReference.cache
+C:\Users\aybar\Desktop\saglik_ocagi_otomasyonu\SOHATS\SOHATS\obj\Debug\SOHATS.Login.resources
+C:\Users\aybar\Desktop\saglik_ocagi_otomasyonu\SOHATS\SOHATS\obj\Debug\SOHATS.Properties.Resources.resources
+C:\Users\aybar\Desktop\saglik_ocagi_otomasyonu\SOHATS\SOHATS\obj\Debug\SOHATS.csproj.GenerateResource.cache
+C:\Users\aybar\Desktop\saglik_ocagi_otomasyonu\SOHATS\SOHATS\obj\Debug\SOHATS.csproj.CoreCompileInputs.cache
+C:\Users\aybar\Desktop\saglik_ocagi_otomasyonu\SOHATS\SOHATS\bin\Debug\SOHATS.exe.config
+C:\Users\aybar\Desktop\saglik_ocagi_otomasyonu\SOHATS\SOHATS\bin\Debug\SOHATS.exe
+C:\Users\aybar\Desktop\saglik_ocagi_otomasyonu\SOHATS\SOHATS\bin\Debug\SOHATS.pdb
+C:\Users\aybar\Desktop\saglik_ocagi_otomasyonu\SOHATS\SOHATS\obj\Debug\SOHATS.exe
+C:\Users\aybar\Desktop\saglik_ocagi_otomasyonu\SOHATS\SOHATS\obj\Debug\SOHATS.pdb
+C:\Users\aybar\Desktop\saglik_ocagi_otomasyonu\SOHATS\SOHATS\obj\Debug\SOHATS.exe.config
+C:\Users\aybar\Desktop\saglik_ocagi_otomasyonu\SOHATS\SOHATS\obj\Debug\SOHATS.AnaForm.resources
+C:\Users\aybar\Desktop\saglik_ocagi_otomasyonu\SOHATS\SOHATS\obj\Debug\SOHATS.PoliklinikTanitma.resources
+C:\Users\aybar\Desktop\saglik_ocagi_otomasyonu\SOHATS\SOHATS\obj\Debug\SOHATS.KullaniciTanitma.resources
+C:\Users\aybar\Desktop\saglik_ocagi_otomasyonu\SOHATS\SOHATS\obj\Debug\SOHATS.HastaIslemleri.resources
+C:\Users\aybar\Desktop\saglik_ocagi_otomasyonu\SOHATS\SOHATS\obj\Debug\SOHATS.HastaBilgileri.resources
+C:\Users\aybar\Desktop\saglik_ocagi_otomasyonu\SOHATS\SOHATS\obj\Debug\SOHATS.DosyaBul.resources
